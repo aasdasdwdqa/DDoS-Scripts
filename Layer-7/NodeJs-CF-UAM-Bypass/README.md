@@ -1,4 +1,4 @@
-# NODE-JS-CFBYPASS-PROXY
+# NodeJs-CF-UAM-Bypass
 <h2>How to Install</h2>
   To install if you are running linux type:
 <pre>apt install nodejs</pre>
